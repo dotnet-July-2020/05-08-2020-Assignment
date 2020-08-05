@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\bin\Debug\LDictionaryAssignment.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\bin\Debug\LDictionaryAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\bin\Debug\LDictionaryAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\obj\Debug\LDictionaryAssignment.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\obj\Debug\LDictionaryAssignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\obj\Debug\LDictionaryAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\LDictionaryAssignment\LDictionaryAssignment\obj\Debug\LDictionaryAssignment.pdb

@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\bin\Debug\HyDictionaryAssignment.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\bin\Debug\HyDictionaryAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\bin\Debug\HyDictionaryAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\obj\Debug\HyDictionaryAssignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\obj\Debug\HyDictionaryAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\obj\Debug\HyDictionaryAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\HyDictionaryAssignment\HyDictionaryAssignment\obj\Debug\HyDictionaryAssignment.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\bin\Debug\StringCollection Assignment.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\bin\Debug\StringCollection Assignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\bin\Debug\StringCollection Assignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\obj\Debug\StringCollection Assignment.csprojAssemblyReference.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\obj\Debug\StringCollection Assignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\obj\Debug\StringCollection Assignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\StringCollection Assignment\StringCollection Assignment\obj\Debug\StringCollection Assignment.pdb

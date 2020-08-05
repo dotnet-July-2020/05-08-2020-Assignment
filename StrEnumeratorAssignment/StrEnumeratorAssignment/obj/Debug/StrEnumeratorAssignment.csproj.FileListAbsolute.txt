@@ -1,0 +1,7 @@
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\bin\Debug\StrEnumeratorAssignment.exe.config
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\bin\Debug\StrEnumeratorAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\bin\Debug\StrEnumeratorAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\obj\Debug\StrEnumeratorAssignment.csproj.CoreCompileInputs.cache
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\obj\Debug\StrEnumeratorAssignment.exe
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\obj\Debug\StrEnumeratorAssignment.pdb
+E:\dotnetclasses\frontend\DotnetConsoleApp\StrEnumeratorAssignment\StrEnumeratorAssignment\obj\Debug\StrEnumeratorAssignment.csprojAssemblyReference.cache
